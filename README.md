@@ -1,2 +1,2 @@
 # FirestoreImportExport
-This repo contains the firebase firestore database import export feature implemented
+This example contains the way to import and export data of firebase firestore database.
