@@ -5,7 +5,7 @@ var fs = require('fs');
 // Initiate Firebase App
 firestoreService.initializeApp(
   serviceAccount,
-  "https://wholechain.firebaseio.com"
+  "database_url"
 );
 
 const main = {};
